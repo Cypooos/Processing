@@ -1,2 +1,2 @@
 # Processing
-A collection of my littles work on the [Processing](https://processing.org/) visual-making software
+A collection of my (tiny) works on the [Processing](https://processing.org/) visual-making software
